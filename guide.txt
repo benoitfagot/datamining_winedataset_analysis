@@ -1,0 +1,7 @@
+-Lancer le fichier package R, contient tous les packages utilisés pour le projet
+-le fichier wine_tree_decision_and_knn.r : contient le fichier source 
+
+-le fichier wine : c'est le data set utilisé
+
+
+-projet_DM.html : c'est le fichier html contenant le code et les différents résultat. c'est plus détail niveau visuel
